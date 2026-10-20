@@ -9,5 +9,3 @@ Ejercicio 2 https://github.com/Alejor07/Prueba_alejo/blob/main/ejercicio2.md
 Ejercicio 3 https://github.com/Alejor07/Prueba_alejo/blob/main/ejercicio3.md
 
 Ejercicio 4 https://github.com/Alejor07/Prueba_alejo/blob/main/ejercicio4.md
-
-Ejercicio 5 https://github.com/Alejor07/Prueba_alejo/blob/main/ejercicio5.md
